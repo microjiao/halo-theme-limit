@@ -1,5 +1,11 @@
 # Halo-Theme-Limit
 
+## jw定制版
+## 计划
+- 像素风格
+- 支持多种动画
+
+
 主题基于 [Halo](https://halo.run) 博客系统，主题样式参考了多种主题，包含 [Halo-Theme-Xue](https://github.com/xzzai/halo-theme-xue) 、 [Typecho-Mirages](https://get233.com/archives/mirages-intro.html) 。
 
 该主题通过 `marked` 实现了首页自定义信息，类似 GitHub 的用户 Profile Readme 效果。可以在主题设置位置，传入自己的 Markdown 文件，亦或是将 GitHub Profile Readme 文件地址直接写入。
